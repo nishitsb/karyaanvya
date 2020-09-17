@@ -1,0 +1,15 @@
+.appbar-buttons{
+    display: block;
+}
+.appbar-drawer{
+    display: none;
+}
+
+@media (max-width: 1000px) {
+    .appbar-buttons{
+        display: none;
+    }
+    .appbar-drawer{
+        display: block;
+    }
+}

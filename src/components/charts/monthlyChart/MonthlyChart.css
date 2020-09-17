@@ -1,0 +1,8 @@
+.monthly-chart-container{
+    margin-left: auto;
+    overflow-x: scroll;
+}
+
+.monthly-chart-container::-webkit-scrollbar {
+    display: none
+}
